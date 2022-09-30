@@ -1,4 +1,4 @@
 # mongodb-movies
 Mongodb -
 
-Inserting movie information into mongodb using java
+Inserting movie information into mongodb using javascript
